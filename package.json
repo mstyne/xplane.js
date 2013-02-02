@@ -1,0 +1,23 @@
+{
+  "name": "xplane.js",
+  "version": "0.0.1",
+  "description": "Receives and parses UDP data from X-Plane",
+  "main": "lib/xplane.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mstyne/xplane.js.git"
+  },
+  "keywords": [
+    "xplane",
+    "udp",
+    "flight",
+    "simulation"
+  ],
+  "author": "Michael Styne <mike@alphamonkey.org>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "b0d40b4040854d1d1d3ddb64923cdf908a0d06bf"
+}
